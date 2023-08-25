@@ -1,0 +1,14 @@
+Server is running
+A client connected:  _GwXVL4A6wYZtPHzAAAA
+string
+string
+Map { 'user2' => '_GwXVL4A6wYZtPHzAAAA' }
+用户密码正确
+A client disconnected:  _GwXVL4A6wYZtPHzAAAA
+A client connected:  J_kkPU8BkXco3XdXAAAB
+string
+string
+Map { 'user2' => 'J_kkPU8BkXco3XdXAAAB' }
+用户密码正确
+change avatar
+null
